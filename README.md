@@ -23,11 +23,11 @@ Installation
 
 ## Setup (recommended)
 
-Take one of the .zip files from the releases, extract it and run the `setup.exe`
+Take one of the .zip files from the releases, extract it and run the `setup.exe`. You must log out and log in again to make the layout available
 
 ## Build
 
-Open the .klc file in the Keyboard Layout Creator, go to `Project` > `Build DLL and Setup Package` then run the `setup.exe`
+Open the .klc file in the Keyboard Layout Creator, go to `Project` > `Build DLL and Setup Package` then run the `setup.exe`, and log out and in
 
 Screenshots
 ===========
