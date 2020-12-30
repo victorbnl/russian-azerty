@@ -32,14 +32,14 @@ Open the .klc file in the Keyboard Layout Creator, go to `Project` > `Build DLL 
 Screenshots
 ===========
 
-## Normal
+### Normal
 
 ![Layout](.screenshots/АЗЕРТЫ.png)
 
-## Shift
+### Shift
 
 ![Layout Shift](.screenshots/АЗЕРТЫShift.png)
 
-## Ctrl + Alt (Alt Gr)
+### Ctrl + Alt (Alt Gr)
 
 ![Layout AltGr](.screenshots/АЗЕРТЫAltGr.png)
